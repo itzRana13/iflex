@@ -1,0 +1,145 @@
+.contact-form-section {
+    background-color: rgb(12, 47, 88);
+    text-align: center !important;
+    padding-bottom: 30px;
+    padding-top: 60px;
+}
+.contact-form-info {
+    visibility: visible;
+    animation-name: fadeInUp;
+    margin-bottom: 30px;
+}
+.contact-from-title {
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    --bs-text-opacity: 1;
+    color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+}
+.contact-form-info span {
+    color: white;
+    font-size: 16px;
+}
+.txt-center {
+    text-align: center !important;
+}
+.postbox__comment-form {
+    margin-bottom: 20px;
+    padding: 40px 30px;
+    max-width: 55%;
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.09);
+    background: white;
+    max-width: 65%;
+    text-align: center;
+    margin: 0px auto;
+    margin-bottom: 90px !important;
+}
+.postbox__comment-input {
+    position: relative;
+    margin-bottom: 20px;
+}
+.postbox__comment-input p{
+    font-size: 20px;
+    margin:10px;
+}
+.postbox__comment-input input, .postbox__comment-input textarea {
+    height: 55px;
+    padding: 0 20px;
+    width: 100%;
+    font-size: 14px;
+    color: var(--bd-common-black);
+    outline: none;
+    border: 1px solid #07070729;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -o-border-radius: 7px;
+    -ms-border-radius: 7px;
+    border-radius: 7px;
+    background: #f7f7f7;
+    font-weight: 600;
+    color: black;
+}
+.postbox__comment-input textarea {
+    height: 175px;
+    resize: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.txt-left {
+    text-align: left !important;
+}
+.pt-18 {
+    padding-top: 18px !important;
+}
+.postbox__comment-btn {
+    text-align: center !important;
+}
+.postbox__comment-btn p {
+    margin-top: 15px;
+    line-height: 22px;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+.bd-btn {
+    display: inline-block;
+    font-size: 18px;
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+    padding: 12px 65px 12px 35px;
+    text-transform: uppercase;
+    position: relative;
+    border: 1px solid #28b67c;
+    z-index: 1;
+    overflow: hidden;
+}
+.bd-btn::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    display: inline-block;
+    background-color: #28b67c;
+    z-index: -1;
+    -webkit-transition: all 0.5s ease-out 0s;
+    -moz-transition: all 0.5s ease-out 0s;
+    -ms-transition: all 0.5s ease-out 0s;
+    -o-transition: all 0.5s ease-out 0s;
+    transition: all 0.5s ease-out 0s;
+}
+@media (min-width: 1400px){
+    .col-xxl-6 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+}
+
+@media (min-width: 1200px){
+    .col-xl-6 {
+        flex: 0 0 auto;
+        width: 50%;
+    } 
+}
+
+@media (min-width: 992px){
+    .col-lg-6 {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+   
+}
+@media (max-width: 992px){
+     .col{
+        flex: none;
+    }
+}
+@media (max-width: 768px){
+    .postbox__comment-form{
+        max-width: 100%;
+        margin-bottom: 0 !important;
+    }
+}

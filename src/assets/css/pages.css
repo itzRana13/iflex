@@ -1,0 +1,310 @@
+@media (max-width: 768px){
+    .abt-section-img img{
+        width: 380px;
+    } 
+}
+.breadcrumb__section{
+    text-align:justify;
+    padding-top: 140px;
+    padding-bottom: 25px;
+    background-repeat: no-repeat;
+}
+
+.breadcrumb__list span a{
+    color: black;
+    text-decoration: none;
+
+}
+.breadcrumb__list span{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+.breadcrumb__title{
+    font-size: 45px;
+}
+.breadcrumb__list{
+    padding-left: 20px;
+}
+.con1{
+    padding: 50px;
+}
+.spl-box {
+    background-color: rgba(255, 255, 255, .9);
+    box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.02);
+    margin-top: 50px;
+    border: 1px solid #e9e9e9;
+    border-top: none !important;
+}
+.col-box {
+    z-index: 99;
+    background-color: #fff;
+    text-align: center;
+}
+.cont {
+    
+    margin-top: 70px;
+}
+.pg-services__item {
+    padding: 10px;
+}
+.pg-services__content {
+    padding: 20px;
+}
+.pg-services__title {
+    font-size: 19px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.pg-services__title a {
+    background-image: linear-gradient(#000, #000), linear-gradient(#000, #000);
+    display: inline;
+    font-weight: 600;
+    color: #000000;
+    background-size: 0% 1px, 0 1px;
+    background-position: 100% 100%, 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.4s linear;
+    text-decoration: none;
+}
+.pg-section__subtitle-lg {
+    font-size: 21px;
+    color: rgb(40, 182, 124);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.pg-section__title-lg {
+    font-size: 30px;
+    color: var(--bd-common-black);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    margin-bottom: 25px;
+}
+p {
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    line-height: 28px;
+}
+.mb-25{
+    margin-bottom: 25px;
+}
+/* ---Reach_us-CSS--- */
+.pt-inner-sidebar {
+    padding: 40px;
+    padding-bottom: 10px;
+    background-color: rgb(231 228 228);
+    margin-bottom: 30px;
+}
+.tp-pt__inner-step {
+    margin-bottom: 30px;
+}
+.tp-pt__inner-step h4 {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+.postbox__comment-form-2 {
+    margin-bottom: 20px;
+    padding: 40px 30px;
+    box-shadow: 0 10px 30px 0 rgb(0 0 0 / 25%);
+    background: white;
+    max-width: 65%;
+    text-align: center;
+    margin-bottom: 90px !important;
+    border-radius: 15px;
+}
+.contact__section{
+    margin-top: 80px;
+}
+/* ---Who_we_are-CSS--- */
+.counter__section{
+    padding-top: 120px;
+    padding-bottom: 90px;
+    background-color:#f5f8fb ;
+}
+.counter__item {
+    border-right: 1px solid #b7c3cf;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+.counter__icon {
+    margin-right: 20px;
+}
+.counter__icon span {
+    font-size: 48px;
+    color: #767676;
+}
+.counter__info span {
+    font-size: 21px;
+    color: gray;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.counter__title {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 4px;
+}
+.about-us{
+    position: relative;
+    background-color: #f5f8fb;
+    overflow: hidden;
+    padding: 120px 0;
+}
+.section__title-wrapper{
+    visibility: visible;
+    animation-name: fadeInUp;
+    margin-bottom: 50px;
+}
+.feature__item {
+    margin-bottom: 30px;
+    visibility: visible;
+    animation-name: fadeInUp;
+    display: flex !important;
+}
+.feature__img{
+    visibility: visible;
+    animation-name: fadeInUp;
+    z-index: 11;
+    position: relative;
+}
+.about-us::after {
+    content: "";
+    background-color: #e2ebf4;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25%;
+    height: 100%;
+    z-index: 1;
+}
+.feature__icon span {
+    font-size: 30px;
+    color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(191, 205, 219);
+    background-color: rgba(255, 255, 255, 0);
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+    text-align: center;
+    display: inline-block;
+    margin-right: 20px;
+}
+.brand__section {
+    position: relative;
+    overflow: hidden;
+    padding: 120px 0;
+}
+.gx-0 {
+    --bs-gutter-x: 0;
+}
+.brand__item {
+    border: 1px solid #888888;
+   
+    text-align: center;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* ---Career-CSS--- */
+.Career__section{
+    margin: 90px 0;
+}
+.career__title, .career__text, .job__title{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+    
+}
+.career__title{
+    font-size: 75px;
+    font-weight: 700; 
+}
+.career__text{
+    font-size: 20px;
+}
+.job__title{
+    color: gray;
+    font-size: 50px;
+    font-weight: 700;
+    
+}
+.job__content{
+    font-size: 30px;
+    font-weight: 600;
+    border: 1px solid lightgray;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    width: 75%;
+    margin-left: 135px;
+    box-shadow: 0 10px 30px 0 rgb(0 0 0 / 20%);
+}
+.job__content span{
+    margin-left: 10px;
+}
+.job__content p{
+    margin-left: 25px;
+}
+.job__tags ul {
+    list-style: none;
+    font-size: 10px;
+    display: flex;
+}
+.job__tags{
+    margin-top: 30px;
+}
+.job__tags ul li{
+    background-color: #80808033;
+    padding: 5px;
+    border-radius: 8px;
+}
+.cont{
+    margin:0 auto;
+}
+.btn{
+    background-color: #5f5fa175;
+    border: 1px solid black;
+    height: fit-content;
+    width: auto;
+    
+}
+.btn a{
+    text-decoration: none;
+    color: black;
+    
+}
+.btn:hover{
+ background-color: #000;
+ color: #fff;
+}
+@media (max-width: 768px){
+    .job__content{
+        width: 100%;
+        margin: 0;
+    }
+    .postbox__comment-form-2{
+        max-width: 100%;
+    }
+   
+    .about-us::after{
+        width: 0;
+    }
+}
+.tp-pt__inner-step a{
+ color: black;
+ text-decoration: none;
+ font-weight: 400;
+}
