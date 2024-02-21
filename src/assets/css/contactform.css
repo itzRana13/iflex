@@ -142,4 +142,20 @@
         max-width: 100%;
         margin-bottom: 0 !important;
     }
+    .contact-form-section{
+        padding-top: 30px;
+
+    }
+    .contact-form-title {
+        font-size:15px; 
+    }
+    .contact-form-info span{
+        font-size: 12px;
+    }
+    .postbox__comment-btn p{
+        font-size: 12px;
+    }
+    .postbox__comment-input p{
+        font-size: 15px;
+    }
 }

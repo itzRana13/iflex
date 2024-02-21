@@ -3,7 +3,7 @@ import '../../assets/css/TestimonialArea-2.css';
 import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
 import Carousel from 'react-bootstrap/Carousel';
-import Team from '../../assets/img/team-1.jpg'
+// import Team from '../../assets/img/team-1.jpg'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import { Col } from 'react-bootstrap';
@@ -81,16 +81,19 @@ const TestimonialArea = () => {
                 <Carousel.Item interval={2000} >
                     <CardGroup>
                         <Card className='card2'>
-                            <Card.Img variant="top" src={Team} />
+                            {/* <Card.Img variant="top" src={Team} /> */}
                             <Card.Body>
                                 <Card.Text>
-                                    This is a wider card with supporting text below as a natural lead-in
-                                    to additional content. This content is a little bit longer.
+                                  Working with iFlex has been a game-changer for our education business. Their
+                                  expertise in EdTech SEO and digital marketing has helped us reach new
+                                  audiences and drive growth in a highly competitive market. We highly
+                                  recommendtheir services to anyone looking to succeed in the digital age.
+                                  <h3>-"Nikki Arora"</h3>
                                 </Card.Text>
                             </Card.Body>
                         </Card>
                         <Card className='card2'>
-                            <Card.Img variant="top" src={Team} />
+                            {/* <Card.Img variant="top" src={Team} /> */}
                             <Card.Body>
                                 <Card.Text>
                                     This card has supporting text below as a natural lead-in to
@@ -99,7 +102,7 @@ const TestimonialArea = () => {
                             </Card.Body>
                         </Card>
                         <Card className='card2'>
-                            <Card.Img variant="top" src={Team} />
+                            {/* <Card.Img variant="top" src={Team} /> */}
                             <Card.Body>
                                 <Card.Text>
                                     This is a wider card with supporting text below as a natural lead-in
@@ -110,7 +113,7 @@ const TestimonialArea = () => {
                         </Card>
                     </CardGroup>
                 </Carousel.Item>
-                <Carousel.Item interval={500}>
+                {/* <Carousel.Item interval={500}>
                     <CardGroup>
                         <Card className='card2'>
                             <Card.Img variant="top" src={Team} />
@@ -141,7 +144,7 @@ const TestimonialArea = () => {
                             </Card.Body>
                         </Card>
                     </CardGroup>
-                </Carousel.Item>
+                </Carousel.Item> */}
             </Carousel>
         </Container>
     </div>  

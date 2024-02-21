@@ -221,9 +221,7 @@ h3{
 .Home__section{
     font-size: 20px;
 }
-.containerr{
-    padding: 20px 30px !important;
-}
+
 }
 @media (max-width: 768px){
     .Home__section{
@@ -240,6 +238,9 @@ h3{
 @media (max-width: 768px){
     .containerr{
         padding: 20px 30px !important;
+        display: flex;
+        justify-content: center;
+        width: 260px !important;
     }
     .feature-img img {
         max-width: 100%; /* Making images responsive */
@@ -249,13 +250,26 @@ h3{
         font-size: 16px !important; /* Adjusting button font size */
         padding: 10px 40px 10px 25px !important; /* Adjusting button padding */
     }
-    .services__title {
-        font-size: 16px; /* Adjusting services title font size */
-    }
     .section__subtitle-lg, .section__subtitle {
-        font-size: 16px; /* Adjusting subtitle font size */
+        font-size: 15px;
+        display: flex;
+        justify-content: center; /* Adjusting subtitle font size */
     }
     .section__title-lg {
-        font-size: 24px; /* Adjusting title font size */
+        font-size: 20px;
+        display: flex;
+        justify-content: center; /* Adjusting title font size */
+    }
+    .services__title{
+        font-size: 10px;
+    }
+    .services__content{
+        padding: 0;
+    }
+    .colm{
+        border-bottom: 1px solid lightgray;
+    }
+    h3{
+        font-size: 20px;
     }
 }

@@ -71,7 +71,6 @@ function EcommerceSolutions() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay- 1.1s">
                 <div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Web Application<br/> Development </a></h3>
                 </div>
               </div>
@@ -79,7 +78,6 @@ function EcommerceSolutions() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay-1.3s">
                 <div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Mobile Application<br/> Development </a></h3>
                 </div>
               </div>
@@ -87,7 +85,6 @@ function EcommerceSolutions() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay-1.6s">
                 <div div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Digital <br/>Marketing</a></h3>
                 </div>
               </div>
