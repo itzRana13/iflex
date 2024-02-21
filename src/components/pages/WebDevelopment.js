@@ -50,16 +50,11 @@ function WebDevelopment() {
             </Col>
             <Col>
               <div class="pg-section__title-wrapper">
-                <span class=" pg-section__subtitle-lg ">E-commerce Services</span>
-                <h3 class="pg-section__title-lg ">E-commerce Services with <br/> IFLEX Technologies</h3>
+                <span class=" pg-section__subtitle-lg ">Web Development</span>
+                <h3 class="pg-section__title-lg ">Web Development Services with <br/> IFLEX Technologies</h3>
                 <p>Let's Explore The Ultimate Ecommerce Service with IFLEX TECHNOLOGIES. </p>
-                <p class="mb-25">In today's digital era, e-commerce is the need of the hour and has become the heartbeat of business.
-                  Whether you are a startup looking to elevate an online presence or an established business house seeking to venture into the bigger market, the right e-commerce solution is a must for your success. 
-                  At IFLEX TECHNOLOGIES, we offer a wide range of cutting-edge e-commerce solutions that help you achieve your goal by increasing revenue and enhancing the overall customer experience. Let's turn your vision into reality and embark on a journey of digital success today.
-                  With years of experience, we have a deep understanding of the e-commerce world.We have witnessed the evolution of the e-commerce industry and stayed at the forefront of technological advancements. 
-                  Our professional teams excel in providing customized solutions, which include – Magento Development, WooCommerce Development, OpenCart Development, and ZenCart Development. 
-                  We understand that every business is unique, and our e-commerce solutions are tailored to meet the specific requirements and goals of your brand. Whether you require a full-fledged online store, a mobile app, or a seamless payment gateway integration, we've covered everything under one umbrella.
-                  Let's venture into the e-commerce world. Contact us today to discuss how our experience can take your e-commerce game to the next level. Let the world witness the next chapter of your success story.
+                <p class="mb-25">We Craft and Build Cutting-Edge Web-Based Solutions that Elevate your Client's Experience, Delivered with an Engaging user Experience.
+                  One Step Solutions of Mobile APPLICATION Development Expertise, serving both consumer and enterprise markets
                 </p>    
               </div>
             </Col>
@@ -68,24 +63,21 @@ function WebDevelopment() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay- 1.1s">
                 <div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
-                  <h3 class="pg-services__title"><a href="#">Web Application<br/> Development </a></h3>
+                  <h3 class="pg-services__title"><a href="##">Web Application<br/> Development </a></h3>
                 </div>
               </div>
             </Col>
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay-1.3s">
                 <div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
-                  <h3 class="pg-services__title"><a href="#">Mobile Application<br/> Development </a></h3>
+                  <h3 class="pg-services__title"><a href="##">Mobile Application<br/> Development </a></h3>
                 </div>
               </div>
             </Col>
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay-1.6s">
                 <div div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
-                  <h3 class="pg-services__title"><a href="#">Digital <br/>Marketing</a></h3>
+                  <h3 class="pg-services__title"><a href="##">Digital <br/>Marketing</a></h3>
                 </div>
               </div>
             </Col>

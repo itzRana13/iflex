@@ -46,8 +46,8 @@ function MotionVideos() {
             </Col>
             <Col>
               <div class="pg-section__title-wrapper">
-                <span class=" pg-section__subtitle-lg ">E-commerce Services</span>
-                <h3 class="pg-section__title-lg ">E-commerce Services with <br/> IFLEX Technologies</h3>
+                <span class=" pg-section__subtitle-lg ">Motion Videos</span>
+                <h3 class="pg-section__title-lg ">Motion Videos Services with <br/> IFLEX Technologies</h3>
                 <p>Let's Explore The Ultimate Ecommerce Service with IFLEX TECHNOLOGIES. </p>
                 <p class="mb-25">In today's digital era, e-commerce is the need of the hour and has become the heartbeat of business.
                   Whether you are a startup looking to elevate an online presence or an established business house seeking to venture into the bigger market, the right e-commerce solution is a must for your success. 
@@ -64,7 +64,6 @@ function MotionVideos() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay- 1.1s">
                 <div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Web Application<br/> Development </a></h3>
                 </div>
               </div>
@@ -72,7 +71,6 @@ function MotionVideos() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay-1.3s">
                 <div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Mobile Application<br/> Development </a></h3>
                 </div>
               </div>
@@ -80,7 +78,6 @@ function MotionVideos() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay-1.6s">
                 <div div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Digital <br/>Marketing</a></h3>
                 </div>
               </div>

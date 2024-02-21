@@ -51,16 +51,14 @@ function DigitalMarketing() {
             </Col>
             <Col>
               <div class="pg-section__title-wrapper">
-                <span class=" pg-section__subtitle-lg ">E-commerce Services</span>
-                <h3 class="pg-section__title-lg ">E-commerce Services with <br/> IFLEX Technologies</h3>
-                <p>Let's Explore The Ultimate Ecommerce Service with IFLEX TECHNOLOGIES. </p>
-                <p class="mb-25">In today's digital era, e-commerce is the need of the hour and has become the heartbeat of business.
-                  Whether you are a startup looking to elevate an online presence or an established business house seeking to venture into the bigger market, the right e-commerce solution is a must for your success. 
-                  At IFLEX TECHNOLOGIES, we offer a wide range of cutting-edge e-commerce solutions that help you achieve your goal by increasing revenue and enhancing the overall customer experience. Let's turn your vision into reality and embark on a journey of digital success today.
-                  With years of experience, we have a deep understanding of the e-commerce world.We have witnessed the evolution of the e-commerce industry and stayed at the forefront of technological advancements. 
-                  Our professional teams excel in providing customized solutions, which include – Magento Development, WooCommerce Development, OpenCart Development, and ZenCart Development. 
-                  We understand that every business is unique, and our e-commerce solutions are tailored to meet the specific requirements and goals of your brand. Whether you require a full-fledged online store, a mobile app, or a seamless payment gateway integration, we've covered everything under one umbrella.
-                  Let's venture into the e-commerce world. Contact us today to discuss how our experience can take your e-commerce game to the next level. Let the world witness the next chapter of your success story.
+                <span class=" pg-section__subtitle-lg ">Digital marketing Services</span>
+                <h3 class="pg-section__title-lg ">Digital marketing Services with <br/> IFLEX Technologies</h3>
+                {/* <p>Let's Explore The Ultimate Ecommerce Service with IFLEX TECHNOLOGIES. </p> */}
+                <p class="mb-25">We understand the potential of digital marketing. It requires a strategic approach focused on customization and unique positioning. 
+                  In today's digitally-driven world, digital marketing is the ultimate requirement for every organization to succeed.
+                  Right digital marketing not only helps attract more customers but also promotes sustainable growth. 
+                  Crafting a distinctive brand image and utilizing social platforms facilitates audience engagement, fostering brand loyalty and boosting sales. 
+                  By driving website traffic, raising brand awareness, and promoting products and services, businesses can effectively achieve their marketing goals and objectives.                 
                 </p>    
               </div>
             </Col>
@@ -69,7 +67,6 @@ function DigitalMarketing() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay- 1.1s">
                 <div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Web Application<br/> Development </a></h3>
                 </div>
               </div>
@@ -77,7 +74,6 @@ function DigitalMarketing() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay-1.3s">
                 <div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Mobile Application<br/> Development </a></h3>
                 </div>
               </div>
@@ -85,7 +81,6 @@ function DigitalMarketing() {
             <Col className='col-box'>
               <div class="pg-services__item animate__animated animate__fadeInUp animate__delay-1.6s">
                 <div div class="pg-services__content ">
-						      <p>Lorem ipsum dolor sit</p>
                   <h3 class="pg-services__title"><a href="#">Digital <br/>Marketing</a></h3>
                 </div>
               </div>

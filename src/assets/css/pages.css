@@ -302,9 +302,45 @@ p {
     .about-us::after{
         width: 0;
     }
+    .breadcrumb__section{
+        padding-top: 60px;
+        padding-bottom: 0;
+    }
+    .breadcrumb__title{
+        font-size: 25px;
+    }
+    .breadcrumb__list span{
+        font-size: 15px;
+    }
+    .Career__section{
+        margin: 0;
+    }
+    .job__content span{
+        font-size: 18px;
+
+    }
+    .job__content p{
+        font-size: 12px;
+    }
+    .pg-section__title-lg{
+        font-size: 20px;
+    }
+    .pg-section__subtitle-lg{
+        font-size: 12px;
+    }
+    p{
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .pg-services__content{
+        padding: 0;
+    }
+    .pg-services__title{
+        font-size: 15px;
+    }
 }
 .tp-pt__inner-step a{
- color: black;
- text-decoration: none;
- font-weight: 400;
+    color: black;
+    text-decoration: none;
+    font-weight: 400;
 }

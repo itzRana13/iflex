@@ -79,15 +79,30 @@ useEffect(() => {
             <Col>
               <div class="pg-section__title-wrapper">
                 <span class=" pg-section__subtitle-lg ">IFLEX TECHNOLOGY </span>
-                <h3 class="pg-section__title-lg ">We Are Iflex Technology  <br/>With 15+  years of Trust</h3>
-                <p>Let's Explore The Ultimate Ecommerce Service with IFLEX TECHNOLOGIES. </p>
-                <p class="mb-25">In today's digital era, e-commerce is the need of the hour and has become the heartbeat of business.
-                  Whether you are a startup looking to elevate an online presence or an established business house seeking to venture into the bigger market, the right e-commerce solution is a must for your success. 
-                  At IFLEX TECHNOLOGIES, we offer a wide range of cutting-edge e-commerce solutions that help you achieve your goal by increasing revenue and enhancing the overall customer experience. Let's turn your vision into reality and embark on a journey of digital success today.
-                  With years of experience, we have a deep understanding of the e-commerce world.We have witnessed the evolution of the e-commerce industry and stayed at the forefront of technological advancements. 
-                  Our professional teams excel in providing customized solutions, which include – Magento Development, WooCommerce Development, OpenCart Development, and ZenCart Development. 
-                  We understand that every business is unique, and our e-commerce solutions are tailored to meet the specific requirements and goals of your brand. Whether you require a full-fledged online store, a mobile app, or a seamless payment gateway integration, we've covered everything under one umbrella.
-                  Let's venture into the e-commerce world. Contact us today to discuss how our experience can take your e-commerce game to the next level. Let the world witness the next chapter of your success story.
+                <h3 class="pg-section__title-lg "> Achieve success in the digital age <br/>with our business-enabling solutions</h3>
+                <p> Maximize business success with a tailored digital strategy. Our services span
+                  from webdevelopment to mobile app creation and digital marketing. With our
+                  expertise, open up new pathways of growth in the digital world to meet your goal.
+                </p>
+                <p class="mb-25"><h2>Our Experience in Numbers</h2>
+                  <h3>15+ Years</h3>
+                  <p>Presented a talk on Emerging Role of Design Learning in school education at
+                    the global conf- World Class Designer Conference<br/>
+                    Harnessing our extensive digital experience allows businesses to maximize
+                    their potential and expand rapidly.
+                  </p>
+                  <h3> 100+ Projects</h3>
+                  <p>Developing websites, app solutions, and digital marketing strategies all help to
+                    generate successful results for our clients.
+                  </p>
+                  <h3> 4 Continents</h3>
+                  <p>Our global network boasts numerous experts in four continents, with the
+                    ability to tap into a range of global savvy insights.
+                  </p>
+                  <h3>1 Promise</h3>
+                  <p>Uplifting each interaction is a vow that our organization proudly makes. We
+                    strive to create constructive outcomes and keep fostering meaningful progress.
+                  </p>
                 </p>    
               </div>
             </Col>

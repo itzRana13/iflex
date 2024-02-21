@@ -71,9 +71,9 @@ const Header = () => {
   return (
     <section className={`header__transparent ${isSticky ? 'header__sticky' : ''}`}>
       <div className='header__main'>
-        <Container>
+        <Container className='header-container'>
           <nav>
-            <div className="logo">
+            <div className="logo-hd">
               <a href='Home'><img src={logo} width="150" height="100" className="d-inline-block align-left" alt="Company Logo" /></a>
             </div>
             <div className={`menu-toggle ${isMenuOpen ? 'open' : ''}`} onClick={toggleMenu}>
